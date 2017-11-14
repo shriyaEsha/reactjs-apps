@@ -1,0 +1,16 @@
+import React from "react";
+import { NavLink } from "react-router-dom";
+import './Layout.css'
+import Archived from './Archived'
+import Settings from "./Settings";
+import Featured from "./Featured";
+
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { hashHistory, IndexRoute } from 'react-router';
+
+class Nav extends React.Component {
+  render() {
+    );
+  }
+}
+export default Nav;

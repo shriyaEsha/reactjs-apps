@@ -1,0 +1,14 @@
+.title{
+	position : relative;
+	margin-top:50px;
+}
+.content{
+	background : orange;
+	font-size: 10em;
+}
+.activeNavLink{
+	background : orange;
+}
+*{
+	font-size : 2rem;
+}
